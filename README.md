@@ -1,5 +1,9 @@
-adxl345-python
+adxl345-python3
 ==============
+
+adx library for python3.  It is based on the [python2 library](https://github.com/pimoroni/adxl345-python)
+
+You must have smbus for python3 installed. [Get it from here](https://github.com/cloudformdesign/adxl345-python3)
 
 Raspberry Pi Python i2c library for the ADXL3453-axis MEMS accelerometer IC which is used in breakout boards like the Adafruit ADXL345 Triple-Axis Accelerometer (http://shop.pimoroni.com/products/adafruit-triple-axis-accelerometer).
 
